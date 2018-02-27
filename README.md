@@ -7,5 +7,5 @@ Requires [Node.js](https://nodejs.org/en/) version 4+.
 $ npm install
 ```
 ```
-# npm start
+$ npm start
 ```
